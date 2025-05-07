@@ -1,6 +1,6 @@
 services:
   app:
-    image: admin/apiG-app:latest
+    image: admin/appi_liam-app:latest
     build: .
     container_name: django
     command: python manage.py runserver 0.0.0.0:8000
