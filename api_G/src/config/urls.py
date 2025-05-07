@@ -22,7 +22,7 @@ from drf_yasg import openapi
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Left 4 Dead 2 API",
+        title="Left 4 Dead 2 API G",
         default_version='v1',
         description="Documentación de la API de Left 4 Dead 2",
         terms_of_service="https://www.google.com/policies/terms/",
